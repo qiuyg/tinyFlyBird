@@ -1,0 +1,4 @@
+tinyFlyBird
+===========
+
+kind of flappybird
